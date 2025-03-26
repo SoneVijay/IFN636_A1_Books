@@ -21,7 +21,7 @@ describe('AddBook Function Test', () => {
     // Mock request data
     const req = {
       user: { id: new mongoose.Types.ObjectId() },
-      body: { title: "New Book", author: "Book description", price: "21" }
+      body: { title: "New Book", author: "Book author", price: "21" }
     };
 
     // Mock book that would be created
@@ -55,7 +55,7 @@ describe('AddBook Function Test', () => {
     // Mock request data
     const req = {
       user: { id: new mongoose.Types.ObjectId() },
-      body: { title: "New Book", author: "Book description", price:"12.00" }
+      body: { title: "New Book", author: "Book author", price:"12.00" }
     };
 
     // Mock response object
@@ -86,7 +86,7 @@ describe('Update Function Test', () => {
     const existingBook = {
       _id: bookId,
       title: "Old Book",
-      author: "Old Description",
+      author: "Old Author",
       price:"10.00",
       save: sinon.stub().resolvesThis(), // Mock save method
     };
