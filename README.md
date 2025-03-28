@@ -43,4 +43,4 @@ Ensure you set up the necessary environment variables such as MongoDB connection
 
 
 ## Contact
-For any issues or queries, open an issue on GitHub or contact the repository owner.
+For any issues or queries, open an issue on GitHub or you may contact me through email n11790792@qut.edu.au
