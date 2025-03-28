@@ -1,4 +1,4 @@
-# Book Inventory Application
+# Book Inventory System
 
 ## Overview
 The **Book Inventory Application** is designed to help users efficiently manage their books by providing a user-friendly interface for creating, viewing, updating, and deleting books. It includes essential features such as secure user authentication, allowing individuals to sign up and log in to their accounts, as well as profile management to update personal information. With built-in validation like input field validation and email validation, the application ensures a seamless user experience while enhancing productivity and organization in both personal and professional settings.
