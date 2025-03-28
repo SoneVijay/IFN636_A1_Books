@@ -20,7 +20,6 @@ Please install the following software and create accounts on the following web t
 - **[Git](https://git-scm.com/)**
 - **[VS Code Editor](https://code.visualstudio.com/)**
 - **[MongoDB Account](https://account.mongodb.com/account/login)**
-- **[GitHub Account](https://github.com/signup?source=login)**
 
 ## Installation
 ```sh
