@@ -19,7 +19,7 @@ Please install the following software and create accounts on the following web t
 - **[Node.js](https://nodejs.org/en)**
 - **[Git](https://git-scm.com/)**
 - **[VS Code Editor](https://code.visualstudio.com/)**
-- **[MongoDB Account](https://account.mongodb.com/account/login)** (Follow step number 2 in the tutorial to create an account and database)
+- **[MongoDB Account](https://account.mongodb.com/account/login)**
 - **[GitHub Account](https://github.com/signup?source=login)**
 
 ## Installation
